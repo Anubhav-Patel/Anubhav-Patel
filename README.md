@@ -1,16 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anubhav Patel</h1>
+<h1 align="center">Hi, I'm Anubhav</h1>
 <h3 align="center">A passionate learner and developer!</h3>
-
-- 🌱 I’m currently learning **Bioinformatics, Database management and Computer networks.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Anubhav-Patel](https://github.com/Anubhav-Patel)
-
-- 📫 How to reach me **anubhavpatel099@gmail.com**
-
-- ⚡ Fun fact **I love mountaineering and backpacking 🏔️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+anubhavpatel099@gmail.com
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/its-anubhav-patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/its-anubhav-patel/" height="30" width="40" /></a>
 </p>
 
